@@ -36,6 +36,11 @@ a {
 
 /* ヘッダー */
 
+.apptitle {
+  color: teal;
+  font-size: 30px;
+}
+
 .header {
   background-color: #f1f8fe;
   margin-bottom: 48px;
